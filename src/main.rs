@@ -1,10 +1,6 @@
-pub mod solutions {
-    pub mod day_1;
-    pub mod day_2;
-    // add as needed
-}
+pub mod solutions;
 
-use crate::solutions::*;
+use solutions::*;
 use std::env;
 
 fn main() {
