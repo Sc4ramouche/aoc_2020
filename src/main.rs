@@ -15,6 +15,7 @@ fn main() {
         "day_1" => day_1::solution_1(),
         "day_1_2" => day_1::solution_2(),
         "day_2" => day_2::solution_1(),
+        "day_2_2" => day_2::solution_2(),
         _ => println!("No day matched"),
     }
 }
